@@ -37,8 +37,8 @@ I'll be adding dashboards, reports, and notebooks demonstrating data cleaning, a
 ## 🧾 Certifications
 
 - 🎓 **Diploma in Information Technology: Software Development** – IIE Rosebank College  
-- 🧠 **Big Data Analytics Program** – ORTSA (2024)  
-- 💡 **$IR in Artificial Intelligence** – University of Johannesburg (2023)  
+- 🧠 **Big Data Analytics Program** – ORTSA (2025)  
+- 💡 **4IR in Artificial Intelligence** – University of Johannesburg (2024)  
 - 💻 **CompTIA A+ Certification** (2024)
 
 ---
