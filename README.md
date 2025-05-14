@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thando Mabaso
 
-🎓 I'm a Diploma graduate in **Software Development** with a strong passion for **Data Analytics**.  
+🎓 I'm a graduate in **Software Development** with a strong passion for **Data Analytics**.  
 🚀 Recently completed the **Big Data Analytics Program** with **ORTSA**, where I gained hands-on experience working with modern data tools and platforms.
 
 ---
